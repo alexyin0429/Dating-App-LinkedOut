@@ -1,4 +1,4 @@
-# 2022 Fall CSC207H1 Group 127 Project: LinkedOut
+# LinkedOut
 
 A versatile modern dating application for all your relationship needs! The interface is based on Java Swing.
 
